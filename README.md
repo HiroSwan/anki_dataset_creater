@@ -1,0 +1,2 @@
+# anki_dataset_creater
+ankiにpdfから取り込むツール
